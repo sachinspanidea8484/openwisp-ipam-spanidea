@@ -1,1 +1,1 @@
-openwisp-utils[qa] @ https://github.com/openwisp/openwisp-utils/tarball/1.2
+openwisp-utils[qa] @ file:///home/spanidea-lt22/Desktop/NOKIA/communications/openwisp-utils
