@@ -1,4 +1,6 @@
-openwisp-users @ https://github.com/sachinspanidea8484/openwisp-users-spanidea/tarball/main
-openwisp-utils[rest] @ https://github.com/sachinspanidea8484/openwisp-utils-spanidea/tarball/main
+# openwisp-users @ https://github.com/sachinspanidea8484/openwisp-users-spanidea/tarball/main
+openwisp-users @ git+https://sachin:kkVgLq7Uyd5vgKzTkDEf@git.spanidea.com/nokia-test-automation/openwisp-users-spanidea.git@dev
+# openwisp-utils[rest] @ https://github.com/sachinspanidea8484/openwisp-utils-spanidea/tarball/main
+openwisp-utils[rest] @ git+https://sachin:kkVgLq7Uyd5vgKzTkDEf@git.spanidea.com/nokia-test-automation/openwisp-utils-spanidea.git@dev
 django-reversion~=5.1.0
 openpyxl~=3.1.5
