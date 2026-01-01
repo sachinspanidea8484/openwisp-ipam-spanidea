@@ -1,4 +1,4 @@
 openwisp-users @ https://github.com/sachinspanidea8484/openwisp-users-spanidea/tarball/main
 openwisp-utils[rest] @ https://github.com/sachinspanidea8484/openwisp-utils-spanidea/tarball/main
-django-reversion~=5.1.0
+django-reversion~=6.1.0
 openpyxl~=3.1.5
