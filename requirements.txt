@@ -1,6 +1,9 @@
 # openwisp-users @ https://github.com/sachinspanidea8484/openwisp-users-spanidea/tarball/main
-openwisp-users @ git+https://sachin:kkVgLq7Uyd5vgKzTkDEf@git.spanidea.com/nokia-test-automation/openwisp-users-spanidea.git@dev
+openwisp-users @ git+https://sachin:-ayqCK-pz-XLzvW1nmjE@git.spanidea.com/nokia-test-automation/openwisp-users-spanidea.git@dev
+# openwisp-users @ file:///home/spanidea-lt22/Desktop/NOKIA/communications/openwisp-users
+
 # openwisp-utils[rest] @ https://github.com/sachinspanidea8484/openwisp-utils-spanidea/tarball/main
-openwisp-utils[rest] @ git+https://sachin:kkVgLq7Uyd5vgKzTkDEf@git.spanidea.com/nokia-test-automation/openwisp-utils-spanidea.git@dev
+openwisp-utils[rest] @ git+https://sachin:-ayqCK-pz-XLzvW1nmjE@git.spanidea.com/nokia-test-automation/openwisp-utils-spanidea.git@dev
+# openwisp-utils[rest] @ file:///home/spanidea-lt22/Desktop/NOKIA/communications/openwisp-utils
 django-reversion~=5.1.0
 openpyxl~=3.1.5
